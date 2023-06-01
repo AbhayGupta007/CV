@@ -1,3 +1,17 @@
 {
-    "liveServer.settings.CustomBrowser": "chrome"
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.runInTerminal": true,
+  "terminal.integrated.enableBell": true,
+  "editor.accessibilitySupport": "off",
+  "workbench.editorAssociations": {
+    "*.docx": "default"
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "vscode-edge-devtools.webhint": false,
+  "workbench.iconTheme": "file-icons",
+  "liveServer.settings.ChromeDebuggingAttachment": true,
+  "C_Cpp.default.compilerPath": "C:\\MinGW\\bin\\gcc.exe",
+  "liveServer.settings.port": 8080,
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": ""
 }
